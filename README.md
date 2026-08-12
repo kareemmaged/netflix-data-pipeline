@@ -60,8 +60,6 @@ pip install pandas
 ## 📝 Notes
 
 - The raw dataset (`netflix_titles.csv`) is expected in Kaggle's [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows) format.
-- File paths are currently hardcoded for a local Windows environment — update the `file_path` in `extract()` and the output path in `load()` before running elsewhere.
-- The `data/` folder is excluded from version control via `.gitignore` to avoid tracking large datasets.
 
 ## 📄 License
 
